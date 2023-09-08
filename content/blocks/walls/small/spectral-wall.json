@@ -1,0 +1,17 @@
+{    
+    "type": "Wall",
+    "name": "Spectral Wall",
+    "health": 600,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "silicon/3",
+        "metaglass/6",
+        "sandbox-utilities-spectral/6"
+    ],
+    "rotate": true,
+    "category": "defense",
+    "research": {
+    
+    }
+}

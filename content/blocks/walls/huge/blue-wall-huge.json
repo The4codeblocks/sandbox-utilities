@@ -1,0 +1,16 @@
+{    
+    "type": "Wall",
+    "name": "Huge Blue Wall",
+    "health": 5400,
+    "size": 3,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "silicon/54",
+        "sandbox-utilities-blue/54"
+    ],
+    "rotate": true,
+    "category": "defense",
+    "research": {
+    
+    }
+}

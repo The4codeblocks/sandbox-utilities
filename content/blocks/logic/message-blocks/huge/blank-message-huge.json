@@ -1,0 +1,19 @@
+{    
+    "type": "MessageBlock",
+    "name": "Huge Blank Message",
+    "health": 40,
+    "size": 3,
+    "maxNewlines": 180,
+    "maxTextLength": 1980,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "copper/45",
+        "graphite/45",
+        "silicon/18"
+    ],
+    "rotate": true,
+    "category": "logic",
+    "research": {
+    
+    }
+}

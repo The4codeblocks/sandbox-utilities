@@ -1,0 +1,17 @@
+{    
+    "type": "Wall",
+    "name": "Huge Brown Wall",
+    "health": 5400,
+    "size": 3,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "silicon/54",
+        "sandbox-utilities-black/27",
+        "sandbox-utilities-orange/27"
+    ],
+    "rotate": true,
+    "category": "defense",
+    "research": {
+    
+    }
+}

@@ -1,0 +1,21 @@
+{    
+    "type": "LightBlock",
+    "name": "Huge Pastel Wall",
+    "health": 8100,
+    "size": 3,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "silicon/108",
+        "sandbox-utilities-spectral/54",
+        "sandbox-utilities-white/54",
+        "sandbox-utilities-black/54",
+        "sandbox-utilities-magenta/54",
+        "sandbox-utilities-yellow/54",
+        "sandbox-utilities-cyan/54"
+    ],
+    "rotate": true,
+    "category": "defense",
+    "research": {
+    
+    }
+}

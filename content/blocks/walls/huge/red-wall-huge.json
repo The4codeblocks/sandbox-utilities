@@ -1,0 +1,16 @@
+{    
+    "type": "Wall",
+    "name": "Huge Red Wall",
+    "health": 5400,
+    "size": 3,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "silicon/54",
+        "sandbox-utilities-red/54"
+    ],
+    "rotate": true,
+    "category": "defense",
+    "research": {
+    
+    }
+}

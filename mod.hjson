@@ -1,0 +1,23 @@
+{
+    name: "sandbox-utilities",
+    repo: "The4codeblocks/sandbox-utilities",
+    minGameVersion: 144,
+    version: "135",
+    
+    displayName: "Sandbox Utilities",
+    author: "The Chaoticans\nT4SC [Mass <=> Energy]",
+    subtitle: "Sandbox just got more fun.",
+    description:
+'''
+Aesthetics and convenience mod for roleplay and sandbox players;
+
+Adds features such as:
+• Larger messages,
+• Faster processors,
+• More wall colors and sizes,
+• Much more!
+'''
+    hideBrowser: false,
+    hidden: false,
+    dependencies: []
+}

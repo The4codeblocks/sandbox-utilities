@@ -1,0 +1,20 @@
+{    
+    "type": "MessageBlock",
+    "name": "Huge Green Message",
+    "health": 400,
+    "size": 3,
+    "maxNewlines": 180,
+    "maxTextLength": 1980,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "graphite/50",
+        "copper/50",
+        "silicon/20",
+        "sandbox-utilities-green/50"
+    ],
+    "rotate": true,
+    "category": "logic",
+    "research": {
+    
+    }
+}

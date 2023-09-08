@@ -1,0 +1,27 @@
+{    
+    "type": "MessageBlock",
+    "name": "Green Infinite Message",
+    "descripion": "Can store an infinite number of characters.",
+    "health": 120,
+    "size": 1,
+    "maxNewlines": 65535,
+    "maxTextLength": 65535,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "graphite/150",
+     "copper/150",
+     "silicon/100",
+     "sandbox-utilities-black/50",
+     "sandbox-utilities-white/50",
+     "sandbox-utilities-cyan/100",
+     "sandbox-utilities-magenta/50",
+     "sandbox-utilities-yellow/100",
+     "sandbox-utilities-spectral/50",
+     "sandbox-utilities-invisible/50"
+    ],
+    "rotate": true,
+    "category": "logic",
+    "research": {
+    
+    }
+}

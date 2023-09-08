@@ -1,0 +1,21 @@
+{    
+    "type": "LightBlock",
+    "name": "Pastel Wall",
+    "health": 900,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "silicon/12",
+        "sandbox-utilities-spectral/6",
+        "sandbox-utilities-white/6",
+        "sandbox-utilities-black/6",
+        "sandbox-utilities-magenta/6",
+        "sandbox-utilities-yellow/6",
+        "sandbox-utilities-cyan/6"
+    ],
+    "rotate": true,
+    "category": "defense",
+    "research": {
+    
+    }
+}

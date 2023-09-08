@@ -1,0 +1,16 @@
+{    
+    "type": "Wall",
+    "name": "Large Light",
+    "health": 2400,
+    "size": 2,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "silicon/24",
+        "sandbox-utilities-white/48"
+    ],
+    "rotate": true,
+    "category": "defense",
+    "research": {
+    
+    }
+}

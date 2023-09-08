@@ -1,0 +1,15 @@
+{    
+    "type": "Wall",
+    "name": "Huge Copper Wall",
+    "health": 2880,
+    "size": 3,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "copper/54"
+    ],
+    "rotate": true,
+    "category": "defense",
+    "research": {
+    
+    }
+}

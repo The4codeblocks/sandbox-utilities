@@ -1,0 +1,19 @@
+{    
+    "type": "MessageBlock",
+    "name": "Large Blue Message",
+    "health": 160,
+    "size": 2,
+    "maxTextLength": 880,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "copper/20",
+        "graphite/20",
+        "sandbox-utilities-blue/20",
+        "silicon/8"
+    ],
+    "rotate": true,
+    "category": "logic",
+    "research": {
+    
+    }
+}

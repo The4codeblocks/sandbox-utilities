@@ -1,0 +1,29 @@
+{    
+    "type": "Wall",
+    "name": "Red Wall",
+    "health": 600,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "silicon/6",
+        "sandbox-utilities-red/6"
+    ],
+    "rotate": true,
+    "category": "defense",
+    "research": {
+    
+    }
+}
+    
+   
+
+   
+
+ 
+
+    
+
+    
+   
+
+   

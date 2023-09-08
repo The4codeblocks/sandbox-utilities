@@ -1,0 +1,19 @@
+{    
+    "type": "MessageBlock",
+    "name": "Large Spectral Message",
+    "health": 160,
+    "size": 2,
+    "maxTextLength": 880,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "metaglass/40",
+        "graphite/10",
+        "sandbox-utilities-spectral/20",
+        "silicon/4"
+    ],
+    "rotate": true,
+    "category": "logic",
+    "research": {
+    
+    }
+}

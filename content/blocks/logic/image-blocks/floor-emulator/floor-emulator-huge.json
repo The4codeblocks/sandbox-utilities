@@ -1,0 +1,17 @@
+{    
+    "type": "LogicDisplay",
+    "name": "Huge Floor Emulator",
+    "health": 40,
+    "size": 1,
+    "displaySize": 224,
+    "buildVisibility": "shown",
+    "requirements": [
+        "silicon/100",
+        "metaglass/90",
+        "sandbox-utilities-black/50",
+        "sandbox-utilities-magenta/50",
+        "sandbox-utilities-yellow/50",
+        "sandbox-utilities-cyan/50"
+    ],
+    "category": "logic"
+}

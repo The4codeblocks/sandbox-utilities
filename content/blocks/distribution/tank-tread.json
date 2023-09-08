@@ -1,0 +1,17 @@
+{
+    "type": "Conveyor",
+    "name": "Tank Tread Carrier",
+    "description": "Used for the visuals of tank treads.",
+    "size": 1,
+    "speed": 0.05,
+    "health": 200,
+    "rotate": true,
+    "itemCapacity": 1,
+    "buildVisibility": "shown",
+    "category": "distribution",
+    "requirements": [
+        "titanium/4",
+        "lead/4",
+        "thorium/4"
+    ]
+}

@@ -1,0 +1,18 @@
+{    
+    "type": "LightBlock",
+    "name": "True Light",
+    "health": 80,
+    "size": 1,
+    "brightness": 100,
+    "radius": 10,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "silicon/5",
+        "metaglass/5",
+        "sandbox-utilities-spectral/10"
+    ],
+    "category": "effect",
+    "research": {
+    
+    }
+}

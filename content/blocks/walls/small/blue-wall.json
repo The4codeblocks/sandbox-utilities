@@ -1,0 +1,16 @@
+{    
+    "type": "Wall",
+    "name": "Blue Wall",
+    "health": 600,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "silicon/6",
+        "sandbox-utilities-blue/6"
+    ],
+    "rotate": true,
+    "category": "defense",
+    "research": {
+    
+    }
+}

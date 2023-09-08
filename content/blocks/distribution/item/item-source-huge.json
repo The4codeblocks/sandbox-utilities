@@ -1,0 +1,14 @@
+{    
+    "type": "ItemSource",
+    "name": "Huge Item Source",
+    "itemsPerSecond": 900,
+    "health": 400,
+    "size": 3,
+    "rotate": true,
+    "buildVisibility": "sandboxOnly",
+    "requirements": [],
+    "category": "distribution",
+    "research": {
+    
+    }
+}

@@ -1,0 +1,17 @@
+{    
+    "type": "Sorter",
+    "name": "Large Inverted Sorter",
+    "health": 120,
+    "size": 2,
+    "rotate": true,
+    "invert": true,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "copper/4",
+        "lead/10"
+    ],
+    "category": "distribution",
+    "research": {
+    
+    }
+}

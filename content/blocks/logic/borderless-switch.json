@@ -1,0 +1,16 @@
+{    
+    "type": "SwitchBlock",
+    "name": "Borderless Switch",
+    "descripion": "An actual 1-bit pixel.",
+    "health": 40,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "copper/2",
+        "graphite/5"
+    ],
+    "category": "logic",
+    "research": {
+        "parent": "sandbox-utilities-borderless-sorter"
+    }
+}

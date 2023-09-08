@@ -1,0 +1,17 @@
+{    
+    "type": "MessageBlock",
+    "name": "Blank Message",
+    "health": 40,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "copper/5",
+        "graphite/5",
+        "silicon/2"
+    ],
+    "rotate": true,
+    "category": "logic",
+    "research": {
+    
+    }
+}

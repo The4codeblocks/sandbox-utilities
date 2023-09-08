@@ -1,0 +1,17 @@
+{    
+    "type": "CanvasBlock",
+    "name": "Mini Canvas",
+    "health": 64,
+    "size": 1,
+    "canvasSize": 6,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "silicon/6",
+        "beryllium/2"
+    ],
+    "rotate": true,
+    "category": "logic",
+    "research": {
+    
+    }
+}

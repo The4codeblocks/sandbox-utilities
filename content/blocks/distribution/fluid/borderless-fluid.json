@@ -1,0 +1,17 @@
+{    
+    "type": "LiquidRouter",
+    "name": "Borderless Fluid",
+    "health": 40,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "metaglass/4",
+     "graphite/2",
+     "sandbox-utilities-invisible/6"
+    ],
+    "liquidCapacity": 200,
+    "category": "liquid",
+    "research": {
+    
+    }
+}

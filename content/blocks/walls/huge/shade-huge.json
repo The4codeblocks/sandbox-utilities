@@ -1,0 +1,16 @@
+{    
+    "type": "Wall",
+    "name": "Huge Shade",
+    "health": 5400,
+    "size": 3,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "silicon/54",
+        "sandbox-utilities-black/108"
+    ],
+    "rotate": true,
+    "category": "defense",
+    "research": {
+    
+    }
+}

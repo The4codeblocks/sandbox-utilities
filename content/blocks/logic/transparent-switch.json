@@ -1,0 +1,19 @@
+{    
+    "type": "SwitchBlock",
+    "name": "Transparent Switch",
+    "descripion": "Is visible or not.",
+    "details": "To be seen, or not seen.",
+    "health": 40,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "copper/2",
+        "graphite/2",
+        "silicon/5",
+        "sandbox-utilities-invisible/10"
+    ],
+    "category": "logic",
+    "research": {
+        "parent": "sandbox-utilities-true-shade"
+    }
+}

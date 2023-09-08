@@ -1,0 +1,12 @@
+{
+	"type": "PowerSource",
+	"health": 1000,
+	"category": "power",
+	"laserRange": 10,
+	"maxNodes": 65535,
+	"buildVisibility": "sandboxOnly",
+	"name": "Infinite Power Source",
+    "rotate": true,
+	"description": "A power source that generates infnite power.\nSandbox only.",
+	"powerProduction": 16666666666666666666666666666667
+}

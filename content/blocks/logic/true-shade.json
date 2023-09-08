@@ -1,0 +1,16 @@
+{    
+    "type": "Wall",
+    "name": "True Shade",
+    "health": 80,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "silicon/2",
+        "sandbox-utilities-black/5",
+        "sandbox-utilities-spectral/5"
+    ],
+    "category": "effect",
+    "research": {
+    
+    }
+}

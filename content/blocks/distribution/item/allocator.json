@@ -1,0 +1,15 @@
+{
+    "type": "Router",
+    "name": "Allocator",
+    "description": "Distributes input items to 11 output directions equally.",
+    "size": 3,
+    "speed": 32.0,
+    "health": 360,
+    "buildVisibility": "shown",
+    "category": "distribution",
+    "requirements": [
+        "copper/8",
+        "lead/8",
+        "graphite/4"
+    ]
+}

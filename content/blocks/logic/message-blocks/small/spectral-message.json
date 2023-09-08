@@ -1,0 +1,17 @@
+{    
+    "type": "MessageBlock",
+    "name": "Spectral Message",
+    "health": 40,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "metaglass/10",
+        "graphite/2",
+        "sandbox-utilities-spectral/5"
+    ],
+    "rotate": true,
+    "category": "logic",
+    "research": {
+    
+    }
+}

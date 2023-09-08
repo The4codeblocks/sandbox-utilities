@@ -1,0 +1,16 @@
+{    
+    "type": "MessageBlock",
+    "name": "Yellow Title Message",
+    "health": 40,
+    "size": 1,
+    "maxTextLength": 440,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "copper/5",
+        "graphite/5",
+        "silicon/2",
+        "sandbox-utilities-yellow/5"
+    ],
+    "rotate": true,
+    "category": "logic"
+}

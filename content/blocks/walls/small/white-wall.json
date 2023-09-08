@@ -1,0 +1,16 @@
+{    
+    "type": "Wall",
+    "name": "White Wall",
+    "health": 600,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "silicon/6",
+        "sandbox-utilities-white/6"
+    ],
+    "rotate": true,
+    "category": "defense",
+    "research": {
+    
+    }
+}

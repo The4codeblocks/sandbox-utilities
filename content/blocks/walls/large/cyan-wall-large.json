@@ -1,0 +1,16 @@
+{    
+    "type": "Wall",
+    "name": "Large Cyan Wall",
+    "health": 2400,
+    "size": 2,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "silicon/24",
+        "sandbox-utilities-cyan/24"
+    ],
+    "rotate": true,
+    "category": "defense",
+    "research": {
+    
+    }
+}

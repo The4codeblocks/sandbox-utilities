@@ -1,0 +1,15 @@
+{    
+    "type": "Wall",
+    "name": "Huge Carbide Wall",
+    "health": 9720,
+    "size": 3,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "carbide/54"
+    ],
+    "rotate": true,
+    "category": "defense",
+    "research": {
+    
+    }
+}

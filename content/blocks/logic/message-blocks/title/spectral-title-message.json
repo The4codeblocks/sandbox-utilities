@@ -1,0 +1,16 @@
+{    
+    "type": "MessageBlock",
+    "name": "Spectral Title Message",
+    "health": 40,
+    "size": 1,
+    "maxTextLength": 440,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "copper/5",
+        "graphite/5",
+        "silicon/2",
+        "sandbox-utilities-spectral/5"
+    ],
+    "rotate": true,
+    "category": "logic"
+}

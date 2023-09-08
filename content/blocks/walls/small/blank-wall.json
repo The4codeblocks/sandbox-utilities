@@ -1,0 +1,16 @@
+{    
+    "type": "Wall",
+    "name": "Blank Wall",
+    "health": 600,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "silicon/3",
+        "metaglass/12",
+        "sandbox-utilities-invisible/12"
+    ],
+    "category": "defense",
+    "research": {
+    
+    }
+}

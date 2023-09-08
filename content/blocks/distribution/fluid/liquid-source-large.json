@@ -1,0 +1,13 @@
+{    
+    "type": "LiquidSource",
+    "name": "Large Liquid Source",
+    "health": 160,
+    "size": 2,
+    "rotate": true,
+    "buildVisibility": "sandboxOnly",
+    "requirements": [],
+    "category": "liquid",
+    "research": {
+    
+    }
+}

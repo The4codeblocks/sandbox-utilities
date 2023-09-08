@@ -1,0 +1,16 @@
+{    
+    "type": "Wall",
+    "name": "Metallic Wall",
+    "health": 600,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "copper/6",
+     "graphite/6"
+    ],
+    "rotate": true,
+    "category": "defense",
+    "research": {
+    
+    }
+}

@@ -1,0 +1,15 @@
+{
+	"type": "Battery",
+	"category": "power",
+	"name": "Infinite Battery",
+	"description": "A battery that can store infinite power.\nSandbox only.",
+	"buildVisibility": "sandboxOnly",
+	"size": 1,
+	"health": 1000,
+	"emptyLightColor": "#6e7efa",
+	"fullLightColor": "#6ed0fa",
+    "rotate": true,
+  	"consumes": {
+		"powerBuffered": 1000000000000000000000000
+	}
+}

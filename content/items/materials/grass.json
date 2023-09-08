@@ -1,0 +1,10 @@
+{
+    "hardness": 1,
+    "cost": 5,
+    "radioactivity": 0,
+    "name": "Grass",
+    "color": "2aa93aFF",
+    "description": "A form of plant that grows on open soil.",
+    "alwaysUnlocked": true,
+    "details": "Go touch grass!"
+}

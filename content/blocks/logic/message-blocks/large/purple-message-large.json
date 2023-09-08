@@ -1,0 +1,19 @@
+{    
+    "type": "MessageBlock",
+    "name": "Large Purple Message",
+    "health": 160,
+    "size": 2,
+    "maxTextLength": 880,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "copper/20",
+        "graphite/20",
+        "sandbox-utilities-purple/20",
+        "silicon/8"
+    ],
+    "rotate": true,
+    "category": "logic",
+    "research": {
+    
+    }
+}

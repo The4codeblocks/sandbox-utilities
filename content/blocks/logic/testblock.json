@@ -1,0 +1,6 @@
+{    
+    "type": "SwitchBlock",
+    "health": 1,
+    "size": 1,
+    "buildVisibility": "hidden"
+}

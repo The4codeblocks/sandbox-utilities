@@ -1,0 +1,21 @@
+{    
+    "type": "LightBlock",
+    "name": "Light Source",
+    "health": 65536,
+    "size": 1,
+    "brightness": 10000,
+    "radius": 200,
+    "buildVisibility": "lightingOnly",
+    "requirements": [
+        "sandbox-utilities-white/65535",
+        "silicon/65535",
+        "sandbox-utilities-spectral/65535",
+        "sandbox-utilities-invisible/65535",
+        "metaglass/65535"
+    ],
+    "rotate": true,
+    "category": "effect",
+    "research": {
+    
+    }
+}

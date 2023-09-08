@@ -1,0 +1,18 @@
+{    
+    "type": "LogicDisplay",
+    "name": "Mini Display",
+    "health": 800,
+    "size": 2,
+    "displaySize": 48,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "lead/24",
+     "silicon/50",
+     "metaglass/50"
+    ],
+    "rotate": true,
+    "category": "logic",
+    "research": {
+    
+    }
+}
