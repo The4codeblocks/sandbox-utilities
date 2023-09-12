@@ -1,13 +1,10 @@
 {    
     "type": "Wall",
-    "name": "Clear16",
+    "name": "Wall Clearer",
+    "description": "Used to quickly clear large areas of walls.",
     "health": 1,
     "size": 16,
     "alwaysUnlocked": true,
-    "requirements": [
-    ],
-    "category": "defense",
-    "research": {
-    
-    }
+    "requirements": [],
+    "category": "defense"
 }

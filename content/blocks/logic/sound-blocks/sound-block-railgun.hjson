@@ -3,6 +3,7 @@
 "type": "powerTurret",
 "type": "powerTurret",
 "type": "powerTurret",
+"connectedPower": false,
 "health": 40,
 "name": "Sound Block \"railgun\"",
 "description": "Makes a certain noise.",
@@ -19,5 +20,4 @@
     "silicon/40",
     "copper/20"
 ],
-"rotate": true,
 "category": "logic"
