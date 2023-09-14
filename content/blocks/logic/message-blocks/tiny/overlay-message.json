@@ -1,0 +1,15 @@
+{    
+    "type": "MessageBlock",
+    "name": "Overlay Message",
+    "description": "A message on anything.",
+    "health": 40,
+    "size": 0,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "sandbox-utilities-invisible/20",
+        "titanium/5",
+        "graphite/5",
+        "silicon/2"
+    ],
+    "category": "logic"
+}
