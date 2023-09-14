@@ -1,0 +1,14 @@
+{    
+    "type": "MessageBlock",
+    "name": "Invisible Title Message",
+    "health": 40,
+    "size": 1,
+    "maxTextLength": 440,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "sandbox-utilities-invisible/10",
+        "graphite/5",
+        "silicon/5"
+    ],
+    "category": "logic"
+}

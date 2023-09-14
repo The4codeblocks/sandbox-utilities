@@ -1,0 +1,13 @@
+{    
+    "type": "MessageBlock",
+    "name": "Invisible Message",
+    "health": 40,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "sandbox-utilities-invisible/10",
+        "graphite/5",
+        "silicon/2"
+    ],
+    "category": "logic"
+}

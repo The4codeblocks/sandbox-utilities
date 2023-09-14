@@ -1,0 +1,14 @@
+{    
+    "type": "MessageBlock",
+    "name": "Huge Invisible Message",
+    "health": 160,
+    "size": 3,
+    "maxTextLength": 880,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "sandbox-utilities-invisible/90",
+        "graphite/45",
+        "silicon/18"
+    ],
+    "category": "logic"
+}
