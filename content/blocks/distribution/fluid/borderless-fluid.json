@@ -4,6 +4,7 @@
     "health": 40,
     "size": 1,
     "alwaysUnlocked": true,
+    "hasShadow": false,
     "requirements": [
      "metaglass/4",
      "graphite/2",
