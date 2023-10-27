@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "True Shade",
+    "name": "Shadow",
     "health": 80,
     "size": 1,
     "alwaysUnlocked": true,

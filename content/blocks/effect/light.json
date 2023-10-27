@@ -1,6 +1,6 @@
 {    
     "type": "LightBlock",
-    "name": "True Light",
+    "name": "Light",
     "health": 80,
     "size": 1,
     "brightness": 100,
