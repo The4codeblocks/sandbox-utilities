@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Huge Light",
+    "name": "Huge Light Wall",
     "health": 5400,
     "size": 3,
     "alwaysUnlocked": true,

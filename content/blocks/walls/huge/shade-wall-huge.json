@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Huge Shade",
+    "name": "Huge Shade Wall",
     "health": 5400,
     "size": 3,
     "alwaysUnlocked": true,

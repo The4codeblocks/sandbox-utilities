@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Light",
+    "name": "Light Wall",
     "health": 600,
     "size": 1,
     "alwaysUnlocked": true,
